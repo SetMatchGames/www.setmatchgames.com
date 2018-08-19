@@ -12,8 +12,6 @@ Formats are not updated rapidly, they wait until the players have been given a c
 
 # Goals
 
-- Increased variety and quality of game formats
-- Increased quality of game components
-- Increased rate of balancing unbalanced formats
+Increased variety and quality of game formats, game components, and rate of balancing unbalanced formats with a drastically reduced coordination cost by levoraging cryptoeconomic market mechanisms.
 
 
