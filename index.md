@@ -13,6 +13,3 @@ Formats are not updated rapidly, they wait until the players have been given a c
 # Goals
 
 Increased variety and quality of game formats, game components, and rate of balancing unbalanced formats with a drastically reduced coordination cost by levoraging cryptoeconomic market mechanisms.
-
-
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ece4102cfbde0ff0590b53054/eef15246bd79b1c5c22be15b3.js");</script>
