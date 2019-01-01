@@ -24,7 +24,7 @@ We will answer every single question and respond to every single DM.
 We stream development updates every Saturday from 1 - 3 PM EST.
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<!--link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
@@ -71,10 +71,10 @@ We stream development updates every Saturday from 1 - 3 PM EST.
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ece4102cfbde0ff0590b53054_5c5ffef9dc" tabindex="-1" value=""></div>
+    <!--div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ece4102cfbde0ff0590b53054_5c5ffef9dc" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
-</div>
+</div-->
 
 <!--End mc_embed_signup-->
